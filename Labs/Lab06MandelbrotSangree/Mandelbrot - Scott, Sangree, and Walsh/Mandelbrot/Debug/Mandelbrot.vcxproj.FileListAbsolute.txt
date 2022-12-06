@@ -1,0 +1,4 @@
+C:\Users\scott\source\repos\Mandelbrot\Debug\Mandelbrot.exe
+C:\Users\scott\source\repos\Mandelbrot\Debug\Mandelbrot.pdb
+C:\Users\haden\Desktop\School\Sem_3\MTRE2610\Labs\Lab06MandelbrotSangree\Mandelbrot - Scott, Sangree, and Walsh\Mandelbrot\Debug\Mandelbrot.exe
+C:\Users\haden\Desktop\School\Sem_3\MTRE2610\Labs\Lab06MandelbrotSangree\Mandelbrot - Scott, Sangree, and Walsh\Mandelbrot\Debug\Mandelbrot.pdb
